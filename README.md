@@ -17,6 +17,13 @@ This repository contains the course materials for FRE-GY 7773 - Machine Learning
   - [01_tools_numpy.ipynb](./01_tools_numpy.ipynb) - Introduction to NumPy for numerical computing.
   - [01_tools_pandas.ipynb](./01_tools_pandas.ipynb) - Introduction to Pandas for data manipulation.
 
+### Lecture 2
+
+- [02_mle.ipynb](./02_mle.ipynb) - Maximum Likelihood Estimation examples.
+- [02_mle_solution.ipynb](./02_mle_solution.ipynb) - Maximum Likelihood Estimation examples - Solutions.
+- [02_data_finance.ipynb](./02_data_finance.ipynb) - Data in Finance examples.
+- [02_homework.ipynb](./02_homework.ipynb) - Homework on Lecture 2.
+
 ## Installation
 
 1. Clone this repository and navigate to the project directory:
