@@ -209,7 +209,6 @@ __marimo__/
 .DS_Store
 
 04_california_housing_example.ipynb
-04_ridge_lasso_solution.ipynb
 06_optimization.ipynb
 07_gaussian_pca.ipynb
 07_yield_curve_pca.ipynb
