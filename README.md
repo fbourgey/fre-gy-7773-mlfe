@@ -36,6 +36,11 @@ Every notebook is accompanied by a link to a corresponding Google Colab session 
 - [04_ridge_lasso.ipynb](./04_ridge_lasso.ipynb) - Ridge and Lasso Regression examples. Train/validation/test sets, cross-validation, pipeline.
 - [04_ridge_lasso_solution.ipynb](./04_ridge_lasso_solution.ipynb) - Ridge and Lasso Regression examples - Solutions.
 
+## Lecture 5
+
+- [05_classification.ipynb](./05_classification.ipynb) - MNIST classification example.
+- [05_classification_solution.ipynb](./05_classification_solution.ipynb) - MNIST classification example - Solutions.
+
 ## Installation
 
 1. Clone this repository and navigate to the project directory:
