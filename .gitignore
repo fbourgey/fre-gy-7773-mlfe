@@ -208,8 +208,8 @@ __marimo__/
 
 .DS_Store
 
-06_optimization_linreg.ipynb
-06_optimization_methods.ipynb
+06_optim_logreg_solution.py
+06_optimization_linreg_solution.ipynb
 07_gaussian_pca.ipynb
 07_yield_curve_pca.ipynb
 08_clustering.ipynb
@@ -220,4 +220,3 @@ __marimo__/
 
 utils/linreg.py
 misc/
-06_optim_logreg.py
