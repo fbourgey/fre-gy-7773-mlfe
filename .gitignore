@@ -208,14 +208,8 @@ __marimo__/
 
 .DS_Store
 
-07_yield_curve_pca_solution.ipynb
-08_clustering.ipynb
 09_gaussian_mixture_models.ipynb
-10_time_series.ipynb
-11_neural_networks.ipynb
-12_deep_learning.ipynb
 
-utils/linreg.py
 misc/
 00_projects.ipynb
 stats/gaussian_mixtures_solution.py
