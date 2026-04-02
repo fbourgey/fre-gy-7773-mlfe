@@ -219,3 +219,5 @@ stats/gaussian_mixtures_solution.py
 08_pca_k_means_returns.ipynb
 09_neural_networks.ipynb
 08_k_means_solution.ipynb
+data/tickers.csv
+data/prices.csv
