@@ -68,6 +68,8 @@ Every notebook is accompanied by a link to a corresponding Google Colab session 
 
 ## Lecture 9 (Neural Networks and PyTorch)
 
+- [09_pytorch_intro.ipynb](./09_pytorch_intro.ipynb) - Introduction to PyTorch for deep learning.
+
 ## Installation
 
 1. Clone this repository and navigate to the project directory:
